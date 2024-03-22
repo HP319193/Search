@@ -1,0 +1,2 @@
+chainlit
+duckduckgo-search==5.1.0
